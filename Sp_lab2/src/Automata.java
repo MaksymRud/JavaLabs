@@ -12,6 +12,8 @@ interface State {
     boolean isFinal();
 
     Object getNum();
+
+    void setFinal();
 }
 
 interface Transition {

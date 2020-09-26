@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5318-8c78-4b2f-ac9e-d74cd7f2ac41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SP_lab1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetFiniteStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DetTransition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SP_lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SP_lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetTransition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetTransition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringGen.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +33,7 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />

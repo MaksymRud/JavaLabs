@@ -1,4 +1,4 @@
-public class DetTransition {
+public class DetTransition implements Transition {
     private String rule;
     private State next;
 

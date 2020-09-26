@@ -6,6 +6,7 @@ public class DetFiniteStateMachine implements Automata {
     }
 
     public Automata switchState(CharSequence c) {
+        System.out.println();
         return new DetFiniteStateMachine(this.current.transit(c));
     }
 

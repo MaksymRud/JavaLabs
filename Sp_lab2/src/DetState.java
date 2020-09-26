@@ -24,6 +24,10 @@ public class DetState implements State {
         return this.isFinal;
     }
 
+    public void setFinal() {
+        this.isFinal = true;
+    }
+
     public State transit(CharSequence c) {
         return transitions
                 .stream()

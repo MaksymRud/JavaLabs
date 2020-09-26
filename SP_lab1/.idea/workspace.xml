@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7876f705-6247-4083-829c-fc89b21dca88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/data/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/src/Automata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/src/DetFiniteStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/src/DetState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/src/DetTransition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sp_lab2/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sp_lab2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sp_lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/StringGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/StringGen.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
