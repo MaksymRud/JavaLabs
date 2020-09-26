@@ -1,0 +1,2 @@
+public class StringGen {
+}
