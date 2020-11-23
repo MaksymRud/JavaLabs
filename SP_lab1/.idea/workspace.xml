@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7876f705-6247-4083-829c-fc89b21dca88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/Automata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/DetState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/DetTransition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/IndentifierAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/LexemReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/NumberAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/OperatorsAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/StringAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab4/src/Lexem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab4/src/LexemReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab4/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SP_lab1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SP_lab1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sp_lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/Sp_lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/Sp_lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/data/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/data/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/Automata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/Automata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/DetFiniteStateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/DetFiniteStateMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sp_lab2/src/StringGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sp_lab2/src/StringGen.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +100,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

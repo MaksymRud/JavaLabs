@@ -1,6 +1,8 @@
 public interface Automata {
     Automata switchState(final CharSequence c);
 
+    Character getCurrent();
+
     boolean canStop();
 }
 

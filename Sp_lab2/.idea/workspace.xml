@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5318-8c78-4b2f-ac9e-d74cd7f2ac41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/Automata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/DetState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/DetTransition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/IndentifierAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/LexemReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/NumberAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/OperatorsAutomata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SP_lab3/src/StringAutomata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SP_lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SP_lab1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sp_lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sp_lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Automata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DetState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DetTransition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetTransition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DetFiniteStateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DetFiniteStateMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringGen.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +56,11 @@
   <component name="ProjectId" id="1hxjCuJO0otlG6pDA7DOrrJYwww" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -67,6 +84,14 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Sp_lab2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -80,6 +105,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -93,5 +123,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="states" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

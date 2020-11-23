@@ -1,4 +1,5 @@
 import java.io.IOException;
+import java.io.StringReader;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Iterator;
@@ -62,10 +63,11 @@ public class Main {
         return res_list;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException {
+
             Set<String> words = getWords("test_data/test1.txt");
             List<String> words_most_unique = getUniqueMaxCharacters(words);
-            for(String s : words_most_unique){
+            for(String s : words_most_unique) {
                 System.out.println(s);
             }
     }
